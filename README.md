@@ -11,45 +11,44 @@ Embark on a two-month mentorship with a dedicated focus on modern cybersecurity.
 ---
 
 ## 🗂️ Repository Structure
-/
-├── README.md # Internship overview, goals, and guide
-├── LICENSE # License for repository use
-│
-├── 01-Onboarding/
-│ ├── Welcome.md # Welcome note, getting started, guidelines
-│ └── Setup-Instructions.md # Environment and tool setup checklist
-│
-├── 02-Month1/
-│ ├── Week1-Introduction/
-│ │ ├── Objectives.md
-│ │ └── Tasks.md
-│ ├── Week2-NetworkBasics/
-│ ├── Week3-SecurityEssentials/
-│ └── Week4-RedTeamBasics/
-│
-├── 03-Month2/
-│ ├── Week5-MalwareAnalysis/
-│ ├── Week6-ThreatIntelligence/
-│ ├── Week7-CapstoneProject/
-│ └── Week8-ReflectionShowcase/
-│
-├── Attendance/
-│ └── Weekly-Attendance.md # Log sheet for attendance and participation
-│
-├── Projects/
-│ ├── Mini-Projects/
-│ ├── Capstone-Project/
-│ └── Presentations/
-│
-├── Resources/
-│ ├── Reading-List.md
-│ ├── Tools.md
-│ └── Cheatsheets.md
-│
-└── Feedback-and-Review/
-├── Peer-Feedback.md
-└── Mentor-Reviews.md
+Repository Structure/
+├── README.md                   # Internship overview, goals, and guide
+├── LICENSE                     # License for repository use
 
+├── 01-Onboarding/
+│   ├── Welcome.md              # Welcome note, getting started, guidelines
+│   └── Setup-Instructions.md  # Environment and tool setup checklist
+
+├── 02-Month1/
+│   ├── Week1-Introduction/
+│   │   ├── Objectives.md
+│   │   └── Tasks.md
+│   ├── Week2-NetworkBasics/
+│   ├── Week3-SecurityEssentials/
+│   └── Week4-RedTeamBasics/
+
+├── 03-Month2/
+│   ├── Week5-MalwareAnalysis/
+│   ├── Week6-ThreatIntelligence/
+│   ├── Week7-CapstoneProject/
+│   └── Week8-ReflectionShowcase/
+
+├── Attendance/
+│   └── Weekly-Attendance.md    # Log sheet for attendance and participation
+
+├── Projects/
+│   ├── Mini-Projects/
+│   ├── Capstone-Project/
+│   └── Presentations/
+
+├── Resources/
+│   ├── Reading-List.md
+│   ├── Tools.md
+│   └── Cheatsheets.md
+
+└── Feedback-and-Review/
+    ├── Peer-Feedback.md
+    └── Mentor-Reviews.md
 
 ---
 
